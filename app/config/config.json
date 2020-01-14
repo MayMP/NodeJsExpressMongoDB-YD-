@@ -1,0 +1,8 @@
+{
+  "development": {
+      "database": "YesDocSchema",
+      "host": "localhost",
+      "port": 27017,
+      "admin_access_token_key": "7jfpo39kdqwe0welrge723lrf"
+  }
+}
